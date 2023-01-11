@@ -76,3 +76,11 @@ There are many ways to update customer segmentation models, but here are the two
 Use the old model as the starting point and retrain it. Keep the existing model and combine its output with that of a new model. Better scaling Machine learning models deployed in production support scalability, thanks to cloud infrastructure. These models are quite flexible for future changes and feedback. For example, consider a company that has 10,000 customers today, and has implemented a customer segmentation model. After a year, if the company has 1 million customers, then ideally we don’t need to create a separate project to handle this increased data. Machine learning models have the inherent capability to handle more data and scale production.
 
 Higher accuracy The value of an optimal number of clusters for given customer data is easy to find using machine learning methods like the elbow method. Not only the optimal number of clusters but also the performance of the model is far better when we use machine learning.
+
+References:
+
+https://www.techslang.com/definition/what-is-customer-segmentation/
+
+https://neptune.ai/blog/customer-segmentation-using-machine-learning
+
+https://www.kaggle.com/code/sayamkumar/online-retail-customer-segmentation/data
