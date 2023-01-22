@@ -1,4 +1,4 @@
-# Cutomer_Segmentation
+# Customer_Segmentation
 
 ![image](https://user-images.githubusercontent.com/108236580/211881996-10c01e24-add8-4f7b-9faf-c3e18832a7aa.png)
 
