@@ -6,7 +6,7 @@
 ### These days, you can personalize everything. There’s no one-size-fits-all approach. But, for business, this is actually a great thing. It creates a lot of space for healthy competition and opportunities for companies to get creative about how they acquire and retain customers.
 One of the fundamental steps towards better personalization is customer segmentation. This is where personalization starts, and proper segmentation will help you make decisions regarding new features, new products, pricing, marketing strategies, even things like in-app recommendations.
 
-But, doing segmentation manually can be exhausting. Why not employ machine learning to do it for us? In this article, I’ll tell you how to do just that.
+But, doing segmentation manually can be exhausting. Why not employ machine learning to do it for us? In this project we see how to do just that.
 
 ### What is customer segmentation?
 Customer segmentation simply means grouping your customers according to various characteristics (for example grouping customers by age).
