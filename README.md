@@ -1,6 +1,6 @@
 # Customer_Segmentation
 
-![image](https://user-images.githubusercontent.com/108236580/211881996-10c01e24-add8-4f7b-9faf-c3e18832a7aa.png)
+![](https://github.com/rggudala/Customer_Segmentation/blob/main/customer-segmentation.png)
 
 
 ### These days, you can personalize everything. There’s no one-size-fits-all approach. But, for business, this is actually a great thing. It creates a lot of space for healthy competition and opportunities for companies to get creative about how they acquire and retain customers.
